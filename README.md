@@ -17,7 +17,7 @@ O protótipo visual do portfólio foi criado usando o Figma. Você pode acessar 
 ## Estrutura de Pastas
 
 <pre>
-```
+
 micael-douglas-website/
 │
 ├── index.html
@@ -46,7 +46,7 @@ micael-douglas-website/
 │   └── favicon.ico
 │
 └── README.md
-```
+
 </pre>
 
 
