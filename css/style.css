@@ -1,4 +1,18 @@
-h1 {
-    font-size: 2em;
-    margin: 0.67em 0;
+/* Adicione seus estilos personalizados aqui */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+}
+
+header {
+    /* Estilos do cabeçalho */
+}
+
+main {
+    /* Estilos do conteúdo principal */
+}
+
+footer {
+    /* Estilos do rodapé */
 }

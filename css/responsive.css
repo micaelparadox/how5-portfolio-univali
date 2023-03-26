@@ -1,4 +1,8 @@
-h1 {
-    font-size: 2em;
-    margin: 0.67em 0;
+/* Adicione estilos responsivos aqui, como consultas de mídia para dispositivos móveis */
+@media (max-width: 768px) {
+
+    /* Exemplo de estilo responsivo */
+    header {
+        /* Estilos adaptados para dispositivos móveis */
+    }
 }
