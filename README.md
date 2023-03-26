@@ -6,7 +6,7 @@ Este projeto consiste no desenvolvimento do portfólio pessoal de Micael Douglas
 
 O protótipo visual do portfólio foi criado usando o Figma. Você pode acessar o projeto do Figma por meio deste link:
 
-[https://www.figma.com/file/Zprf31McIkQmBBOYVpmF1B/Portifolio---Univali-HOW5?node-id=0-1&t=CiCnfioPwK2OmGwI-0](https://www.figma.com/file/Zprf31McIkQmBBOYVpmF1B/Portifolio---Univali-HOW5?node-id=0-1&t=CiCnfioPwK2OmGwI-0)
+[https://www.figma.com/file/Zprf31McIkQmBBOYVpmF1B/Portifolio---Univali-HOW5?node-id=0%3A1&t=VLMnYuEDRMIRotID-1](https://www.figma.com/file/Zprf31McIkQmBBOYVpmF1B/Portifolio---Univali-HOW5?node-id=0%3A1&t=VLMnYuEDRMIRotID-1)
 
 ## Tecnologias Utilizadas
 
