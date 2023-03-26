@@ -16,6 +16,8 @@ O protótipo visual do portfólio foi criado usando o Figma. Você pode acessar 
 
 ## Estrutura de Pastas
 
+<pre>
+```
 micael-douglas-website/
 │
 ├── index.html
@@ -24,26 +26,28 @@ micael-douglas-website/
 ├── contato.html
 │
 ├── css/
-│ ├── style.css
-│ ├── reset.css
-│ └── responsive.css
+│   ├── style.css
+│   ├── reset.css
+│   └── responsive.css
 │
 ├── js/
-│ ├── main.js
-│ └── form-validation.js
+│   ├── main.js
+│   └── form-validation.js
 │
 ├── img/
-│ ├── perfil.jpg
-│ ├── logo.png
-│ ├── projeto1.png
-│ ├── projeto2.png
-│ └── projeto3.png
+│   ├── perfil.jpg
+│   ├── logo.png
+│   ├── projeto1.png
+│   ├── projeto2.png
+│   └── projeto3.png
 │
 ├── assets/
-│ ├── cv-micael-douglas.pdf
-│ └── favicon.ico
+│   ├── cv-micael-douglas.pdf
+│   └── favicon.ico
 │
 └── README.md
+```
+</pre>
 
 
 ## Instruções para Execução
